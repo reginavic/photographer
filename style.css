@@ -1,0 +1,32 @@
+.navbar {
+    background-color: #dadfe9;
+}
+.hov {
+    font-size: large;
+}
+.hov:hover {
+    text-decoration: underline;
+}
+.first {
+    font-family:'Roboto', sans-serif;
+    margin-left: 10px;
+}
+.card-header {
+    background-color: #dadfe9 ;
+}
+.hv:hover {
+    background-color: #dadfe9;
+}
+.work {
+    display: flex;
+    justify-content: center;
+}
+.vtoroy {
+    width: 380px;
+    color: #000;
+    font-size: 20px;
+}
+.vtoroy:hover { 
+    background-color:#dadfe9;
+    color: #000;
+}
